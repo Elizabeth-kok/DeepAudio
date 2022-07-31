@@ -13,5 +13,11 @@ Dataset
 
 Step 1
 1. Load Audio Data
+2. Create Tensorflow Dataset
+3. Determine average length of a capuchin call
+
+- When converting spectrogram, we want to ensure that we capture what is effectively a full capuchin call
+- When we slice through our bigger clip, we capture the entire/majority of the call
+- To ensure good predictions
 
 
