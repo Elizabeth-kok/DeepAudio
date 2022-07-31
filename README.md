@@ -3,6 +3,7 @@
 Working with audio data
 1. Convert Audio data to Waveform (numerical representation) using Python
 2. Transform waveform to spectrogram, Convolution Neural Network can process spectrogram and classify them
+
    Convert the audio wave to image representation , later on we will be able to use Image classification techniques to count the Capuchin density
 3. Perform sliding window classification > Classifying Capuchin Bird Calls (count the number of specific audio detection within that clip)
 4. Outcome is binary > 1 Bird Calls detected ; 0 Bird Calls not detected
