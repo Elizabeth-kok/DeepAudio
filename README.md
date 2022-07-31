@@ -1,4 +1,4 @@
-# Build a deep audip classifier with Python and Tensorflow
+# Build a deep audio classifier with Python and Tensorflow
 
 Working with audio data
 1. Convert Audio data to Waveform (numerical representation) using Python
